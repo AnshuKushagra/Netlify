@@ -1,0 +1,5 @@
+.list img {
+  width: 100%;
+  grid-row: 1 / -1;
+  border: none; /* Remove the border */
+}
