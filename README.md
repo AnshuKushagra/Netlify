@@ -9,6 +9,8 @@ A dynamic Movie Search Application built with React.js, integrating real-time mo
 ✔️ Optimized API Calls for better performance
 ✔️ Deployed on Netlify for quick access
 
+🎞️ "Here’s a preview of the application. Check it out below! 👇"
+
 ![Screenshot](https://github.com/AnshuKushagra/Netlify/blob/main/Image3.png?raw=true)
 ![Screenshot](https://github.com/AnshuKushagra/Netlify/blob/main/Image2.png?raw=true)
 
